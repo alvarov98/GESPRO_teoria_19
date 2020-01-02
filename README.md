@@ -7,3 +7,4 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 * [Illya Shlyapnikov](https://github.com/illyaUBU)
 * [José María Santos Romero](https://github.com/jsr1002)
 * [Pablo Santidrián Tudanca](https://github.com/psnti)
+* [Aarón González Valdivielso](https://github.com/agv1006)
