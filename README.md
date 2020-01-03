@@ -9,3 +9,4 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 * [Pablo Santidrián Tudanca](https://github.com/psnti)
 * [Aarón González Valdivielso](https://github.com/agv1006)
 * [Alberto Alegre Madrid](https://github.com/alberibeas)
+* [Sergio Castañeira Hoyos](https://github.com/sch1003)
