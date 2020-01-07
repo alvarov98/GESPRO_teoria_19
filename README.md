@@ -10,5 +10,6 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 * [Aarón González Valdivielso](https://github.com/agv1006)
 * [Alberto Alegre Madrid](https://github.com/alberibeas)
 * [Sergio Castañeira Hoyos](https://github.com/sch1003)
+* [Álvaro Arnaiz León](https://github.com/xal1001)
 * [Javier Martínez Pérez](https://github.com/javiermp1598)
 * [Elisa Rodríguez Corres](https://github.com/erc1002)
